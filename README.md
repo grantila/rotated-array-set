@@ -16,6 +16,11 @@
 Construct a `RotatedArraySet`, optionally provide a *stringify* method, converting `T` to `string` (this is not necessary for primitive types).
 
 
+## Versions
+
+ * Since v2 this is a [pure ESM][pure-esm] package, and requires Node.js >=12.20. It cannot be used from CommonJS.
+
+
 ## Example
 
 ```ts
@@ -62,3 +67,4 @@ tree.values( ); // [ [ user1, user2, user3 ] ]
 [lgtm-url]: https://lgtm.com/projects/g/grantila/rotated-array-set/context:javascript
 [node-version]: https://img.shields.io/node/v/rotated-array-set
 [node-url]: https://nodejs.org/en/
+[pure-esm]: https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c

@@ -2,7 +2,6 @@
 [![downloads][downloads-image]][npm-url]
 [![build status][build-image]][build-url]
 [![coverage status][coverage-image]][coverage-url]
-[![Language grade: JavaScript][lgtm-image]][lgtm-url]
 [![Node.JS version][node-version]][node-url]
 
 
@@ -59,12 +58,10 @@ tree.values( ); // [ [ user1, user2, user3 ] ]
 [npm-image]: https://img.shields.io/npm/v/rotated-array-set.svg
 [npm-url]: https://npmjs.org/package/rotated-array-set
 [downloads-image]: https://img.shields.io/npm/dm/rotated-array-set.svg
-[build-image]: https://img.shields.io/github/workflow/status/grantila/rotated-array-set/Master.svg
+[build-image]: https://img.shields.io/github/actions/workflow/status/grantila/rotated-array-set/master.yml?branch=master
 [build-url]: https://github.com/grantila/rotated-array-set/actions?query=workflow%3AMaster
 [coverage-image]: https://coveralls.io/repos/github/grantila/rotated-array-set/badge.svg?branch=master
 [coverage-url]: https://coveralls.io/github/grantila/rotated-array-set?branch=master
-[lgtm-image]: https://img.shields.io/lgtm/grade/javascript/g/grantila/rotated-array-set.svg?logo=lgtm&logoWidth=18
-[lgtm-url]: https://lgtm.com/projects/g/grantila/rotated-array-set/context:javascript
 [node-version]: https://img.shields.io/node/v/rotated-array-set
 [node-url]: https://nodejs.org/en/
 [pure-esm]: https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c
